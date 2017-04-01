@@ -1,0 +1,32 @@
+{
+  "name": "scaff-redux",
+  "version": "0.0.1-alpha-1",
+  "description": "Scaffolding for bussines logic. Oriented to angular components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiadrianadri/scaff-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "angular",
+    "components"
+  ],
+  "author": "Adrian Ferreres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardiadrianadri/scaff-redux/issues"
+  },
+  "homepage": "https://github.com/ardiadrianadri/scaff-redux#readme",
+  "dependencies": {
+    "rxjs": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.12",
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.2"
+  }
+}
